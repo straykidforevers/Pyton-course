@@ -1,0 +1,5 @@
+print("i like cats")
+print(5)
+print("hello python \n")
+print("hello python",5)
+print("welcom to",end="*")
