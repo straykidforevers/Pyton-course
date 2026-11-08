@@ -1,0 +1,67 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyP9MHw+MAYgZI9lqCJg4WCt",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/straykidforevers/Pyton-course/blob/main/routine%20daily\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 4,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "wNVbmZYjDPww",
+        "outputId": "88b2ac2a-4370-472c-f35f-ab9d0635589e"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "i wakup ate 7:00 am\n",
+            "i brush my teeth\n",
+            "i took my birth\n",
+            " i dress and eat\n",
+            "i go school\n",
+            "i came back to home\n",
+            "i do my homework then i eat dinner\n",
+            "i go to bed ate 8:30 pm\n"
+          ]
+        }
+      ],
+      "source": [
+        "print(\"i wakup ate 7:00 am\")\n",
+        "print(\"i brush my teeth\")\n",
+        "print(\"i took my birth\")\n",
+        "print(\" i dress and eat\")\n",
+        "print(\"i go school\")\n",
+        "print(\"i came back to home\")\n",
+        "print(\"i do my homework then i eat dinner\")\n",
+        "print (\"i go to bed ate 8:30 pm\")"
+      ]
+    }
+  ]
+}
